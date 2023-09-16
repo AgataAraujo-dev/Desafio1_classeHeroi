@@ -51,11 +51,11 @@ Ao final deve se exibir uma mensagem:
 
 O código final foi:
 
-![image](https://github.com/AgataAraujo-dev/desafio1_classeHeroi/assets/139137656/b65d5843-33f0-440c-9fec-e70f00515b77)
+![desafio1js](https://github.com/AgataAraujo-dev/Desafio1_classeHeroi/assets/139137656/150d1caf-cd1e-4508-8c5f-63dbe7d23067)
 
 E o resultado seguiu o esperado:
 
-![image](https://github.com/AgataAraujo-dev/desafio1_classeHeroi/assets/139137656/138f2dc4-f4d3-4760-ae6c-eb3e6413a73b)
+![desafio1result](https://github.com/AgataAraujo-dev/Desafio1_classeHeroi/assets/139137656/7537cd89-14fc-4ae8-9863-770961392929)
 
 
 ## Tecnologias Utilizadas
@@ -124,8 +124,8 @@ console.log("O Herói " + nomeheroi + " está no nível " + nivelheroi)
 Deixarei abaixo o código do mesmo desafio desenvolvido seguindo a mesma sequência de passos, porém utilizando Python!
 O código final foi:
 
-![image](https://github.com/AgataAraujo-dev/desafio1_classeHeroi/assets/139137656/875f7b39-7832-48cc-9ea4-f7e6024dedfb)
+![desafio1py](https://github.com/AgataAraujo-dev/Desafio1_classeHeroi/assets/139137656/6a824d1f-6cd5-46d9-9045-bc10f787f2c5)
 
 E o resultado seguiu o esperado:
 
-![image](https://github.com/AgataAraujo-dev/desafio1_classeHeroi/assets/139137656/138f2dc4-f4d3-4760-ae6c-eb3e6413a73b)
+![desafio1result](https://github.com/AgataAraujo-dev/Desafio1_classeHeroi/assets/139137656/7537cd89-14fc-4ae8-9863-770961392929)
